@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 const mysql = require('mysql2')
 
-process.env.PORT || 3001
+.listen(process.env.PORT || 3001)
 
 const connection = mysql.createConnection({
     host: 'localhost',
