@@ -1,5 +1,4 @@
 const inquirer = require('inquirer');
-const { result } = require('lodash');
 const mysql = require('mysql2')
 
 process.env,PORT || 3006
