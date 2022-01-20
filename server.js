@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 const mysql = require('mysql2')
 
-.listen(process.env.PORT || 3001)
+
 
 const connection = mysql.createConnection({
     host: 'localhost',
@@ -13,7 +13,7 @@ const connection = mysql.createConnection({
     user: 'root',
 
 
-    password: 'xam32188',
+    password: 'PASSWORD',
     database: 'employee_tracker',
 });
 

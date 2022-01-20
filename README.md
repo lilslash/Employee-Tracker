@@ -1,8 +1,11 @@
 ## Employee Mangament System
 
-    
 
 An application used through the termial that allows you to keep track of various data from employees
+![screenshot](img/img.png)
+
+
+!(https://youtu.be/Cq4f5d6YE_E)
 
 ## Table of contents
 
@@ -36,5 +39,5 @@ Email: maxwittner01@gmail.com
 Github: https://www.github.com/lilslash
 
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blueviolet.svg)
+
     
